@@ -19,7 +19,7 @@
  */
 
 const DEFAULT_LINE_WIDTH = 5;
-const DEFAULT_COLOR = '69B1FF';
+const DEFAULT_COLOR = 'FF0000';
 
 var GeoJSONStyle = class GeoJSONStyle {
     constructor(params) {
